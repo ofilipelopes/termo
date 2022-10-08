@@ -4,7 +4,7 @@
     
     Fiz durante aulas no curso, para passar o tempo.
     Um pequeno desafio ou exercício que fiz pra mim mesmo
-    Que tô começando a estudar programação e python como primeira linguagem.
+    que tô começando a estudar programação e python como primeira linguagem.
     Versão apenas para usar na IDE, sem front end
     
     Qualquer bug que achar ou dica que tiver, podem me falar
