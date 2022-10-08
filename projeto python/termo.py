@@ -78,8 +78,6 @@ while True:
     worddict = dict()  # dicionario com a palavra sorteada.
     dics(palavra, worddict)
     user = usert(lista1)
-    '''userdict = dict()                 # dicionario com a palavra que o usuario digitou.
-    dics(user, userdict)'''
     colorprint(palavra, user)
     print()
     verif = verify(palavra, user)
