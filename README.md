@@ -2,6 +2,9 @@
 
     Versão genérica do site term.ooo
     
+    OBS: Eu uso o Pycharm, fui testar no Visual Studio Code e nele você tem que jogar o arquivo txt para fora da pasta do arquivo py para funcionar.
+    Deve deixar o txt junto com o readme, na pasta do repositório 
+    
     Fiz durante aulas no curso, para passar o tempo.
     
     Um pequeno desafio ou exercício que fiz pra mim mesmo
