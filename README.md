@@ -7,4 +7,5 @@
     Versão apenas para usar na IDE, sem front end
     
     Qualquer bug que achar ou dica que tiver, podem me falar
-    
+    Melhor lugar para contato: twitter.com/OFilipelopes__
+  
