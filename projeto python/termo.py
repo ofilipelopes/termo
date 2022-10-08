@@ -69,7 +69,6 @@ def dics(word, dic):  # Cria um dicionário com as letras da palavra como keys e
 lista = open('palav5.txt', 'rt')                        # Abro o arquivo de texto com as palavras.
 palavra = choice(lista.readlines()).strip().lower()     # Sorteia uma palavra.
 lista.close()                                           # fecha o arquivo.
-print(palavra)
 chance = 1
 
 while True:
