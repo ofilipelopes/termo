@@ -5,7 +5,7 @@ def usert(lst):  # Tentativas do usuario.
     ver = False
     while not ver:
         ver = True
-        usertry = input('Sua tentativa: ').strip()
+        usertry = input('Sua tentativa: ').strip().lower()
         if len(usertry) != 5:
             print('São aceitas apenas palavras com 5 letras!')
             ver = False
